@@ -1,0 +1,13 @@
+h3 {
+    padding: 2%;
+    margin: 3%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;    
+}
+
+nav svg {
+    
+    height: 120px;
+    max-width: 100%;
+    cursor: pointer;
+}

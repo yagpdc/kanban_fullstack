@@ -1,0 +1,38 @@
+.form_wrapper {
+  width: 70%;
+  max-width: 100%;
+  position: relative;
+}
+
+nav {
+  width: 45%;
+}
+
+.header_task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 25%;
+}
+
+.form_wrapper input {
+  background-color: #EFD5BB;
+  border: 2px solid #fff;
+  border-radius: 50px;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  width: 100%;
+}
+
+.addTodoBtn {
+  border: none;
+  background-color: #EFD5BB;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  aspect-ratio: 1/1;
+  position: absolute;
+  right: 5px;
+  top: 7px; 
+  cursor: pointer;
+}
